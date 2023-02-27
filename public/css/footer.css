@@ -1,0 +1,47 @@
+
+footer {
+  background: url(../img/footer-background.jpg) repeat;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.social-wrapper{
+  text-align: center;
+  margin-top: 15px;
+  padding-top: 10px;
+}
+
+.social-wrapper ul li {
+  display: inline-block;
+}
+
+
+li.facebook{
+  background-image: url(../img/social-sprite.png);
+  background-size: 192px 31px;
+  background-repeat: no-repeat;
+  background-position: -119px top;
+  width: 28px;
+  height: 31px;
+  text-align: center;
+  display: block;
+  font-size: 0px;
+}
+
+li.instagram{
+  background-image: url(../img/social-sprite.png);
+  background-size: 192px 31px;
+  background-repeat: no-repeat;
+  background-position: -165px top;
+  width: 28px;
+  height: 31px;
+  text-align: center;
+  display: inline-block;
+  font-size: 0px;
+}
+.store-information-wrapper{
+  display: block;
+  letter-spacing: 1px;
+  text-align: center;
+  color: white;
+}
